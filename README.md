@@ -81,14 +81,16 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 - [x] TelegraPh
 ----
 
-<p align="center">
-↪️ 𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐇𝐄𝐑𝐎𝐊𝐔 ↩️
+## Deploy
+You can deploy this bot anywhere.
+
+
 
 <a href="https://heroku.com/deploy?template=https://github.com/malik7983/file-filter-bot-new">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 </p>
-
-----
-
+</details>
 <p align="center">
 ↪️ 𝐑𝐄𝐐𝐔𝐈𝐑𝐄𝐃 ↩️
 </p>
