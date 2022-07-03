@@ -32,7 +32,8 @@
         },
         "SESSION_FILE": {
             "description": "SESSION_FILE From https://youtu.be/WUN_12-dYOM",
-            "value": ""
+            "value": "",
+            "required": false
         },
         "DATABASE_URI": {
             "description": "DATABASE_URI From https://youtu.be/gBLTsH-IXr0",
