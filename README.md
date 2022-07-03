@@ -83,10 +83,8 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 
 <p align="center">
 ↪️ 𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐇𝐄𝐑𝐎𝐊𝐔 ↩️
-</p>
 
-<p align="center">
-<a href="https://github.com/mali7983/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/malik7983/file-filter-bot-new">
 </p>
 
 ----
